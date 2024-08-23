@@ -17,3 +17,12 @@ i {
 .content h1, h2 {
     text-align: center;
 }
+
+.content h2 {
+    color: white;
+}
+
+.search-bar {
+    display: flex;
+    justify-content: center;
+}
