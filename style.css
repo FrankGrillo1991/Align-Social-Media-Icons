@@ -86,3 +86,8 @@ input:focus {
     width: 350px;
     transition-duration: 0.2s;
 }
+
+img {
+    border-radius: 7px;
+    width: 350px;
+}
