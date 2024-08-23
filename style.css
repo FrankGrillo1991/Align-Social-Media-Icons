@@ -1,0 +1,11 @@
+body {
+    background-color: #3b3b3b;
+}
+
+.items {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 500px;
+    position: fixed;
+}
