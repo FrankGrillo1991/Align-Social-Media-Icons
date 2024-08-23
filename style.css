@@ -38,3 +38,13 @@ i {
 .search-bar input::placeholder {
     margin-left: 100px;
 }
+
+input:focus {
+    outline: none;
+}
+
+.outer-cards {
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
