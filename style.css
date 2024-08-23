@@ -102,3 +102,48 @@ p {
     padding: 3px 3px;
     color: #a5a5a5;
 }
+
+@media screen and (max-width: 850px) {
+    .cards {
+        height: 90%;
+        width: 50%;
+    }
+    .search-bar input {
+        margin-left: 55px;
+    }
+}
+
+@media screen and (max-width: 710px) {
+    .cards {
+        height: 450px;
+    }
+    .cards #card1, #card2 {
+        width: 200px;
+    }
+    .cards #card2 {
+        width: 200px;
+    }
+    img {
+        border-radius: 7px;
+        width: 200px;
+    }
+    .search-bar input {
+        margin-left: 90px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .cards {
+        height: 500px;
+    }
+    .cards #card1, #card2 {
+        width: 150px;
+    }
+    .cards #card2 {
+        width: 150px;
+    }
+    img {
+        border-radius: 7px;
+        width: 150px;
+    }
+}
