@@ -1,4 +1,4 @@
-let searchbar = document.getElementsByClassName("search-bar");
+let searchbar = document.getElementsByClassName("search-bar")[0];
 let cards = document.getElementsByClassName("cards");
 
 searchbar.addEventListener("keydown", (e) => {
