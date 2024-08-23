@@ -9,3 +9,11 @@ body {
     height: 500px;
     position: fixed;
 }
+
+i {
+    margin-top: 8px;
+}
+
+.content h1, h2 {
+    text-align: center;
+}
