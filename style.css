@@ -91,3 +91,14 @@ img {
     border-radius: 7px;
     width: 350px;
 }
+
+h4 {
+    margin-top: 2px;
+    padding: 3px 3px;
+}
+
+p {
+    margin-top: -15px;
+    padding: 3px 3px;
+    color: #a5a5a5;
+}
