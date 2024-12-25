@@ -1,0 +1,1 @@
+Align Social Media Icons developed with HTML, CSS & JavaScript
